@@ -31,7 +31,7 @@ My focus is on disease surveillance and outbreak investigations for infectious, 
 - **Comparison of Dose Vaccination Regimes for Cholera in Zambia**
 
 ## 🌱 Currently Learning
-PowerBI | STATA
+PowerBI | STATA | GIS
 
 ## 🛠️ Technical Skillset
   <img src="https://img.shields.io/badge/Power%20BI- Beginner-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
