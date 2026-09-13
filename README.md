@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 ## About Me
-I am a Master of Public Health Student with strong interests in Epidemiology, Environmental, and Global Public Health.
+I am a Master of Public Health Student with strong interests in Epidemiology and Biostatistics.
 
 My focus is on disease surveillance and outbreak investigations for infectious, vector-borne, water-borne, and food-borne diseases. 
 
