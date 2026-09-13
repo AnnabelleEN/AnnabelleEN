@@ -34,7 +34,6 @@ My focus is on disease surveillance and outbreak investigations for infectious, 
 R | STATA 
 
 ## 🛠️ Technical Skillset
-  <img src="https://img.shields.io/badge/Power%20BI- Beginner-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/R-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
 
